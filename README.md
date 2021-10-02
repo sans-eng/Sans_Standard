@@ -1,4 +1,4 @@
-## Sans standart codesys library
+## Sans standard codesys library
 A **codesys utilities library** that can help the project development become more efficient and structured.
 
 ROADMAP:
