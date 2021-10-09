@@ -4,5 +4,5 @@ A **codesys utilities library** that can help the project development become mor
 ROADMAP:
 - [ ] Primitive data types functions. [On progress]
 - [ ] Generic collections.
-- [ ] Mathematical functions.
+- [ ] Mathematical functions. [On progress]
 
